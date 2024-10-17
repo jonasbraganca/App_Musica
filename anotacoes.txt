@@ -1,0 +1,16 @@
+Aplicativo de música:
+- minha biblioteca ____ musicas 
+                  |_____ albuns adicionados
+                  |_____ playlists adicionadas e criadas
+
+
+- biblioteca publica _____ playlists publicas do app
+                    |_____ ouvidos recentemente
+
+- pesquisa _____ pesquisar nome
+          |_____ filtrar por album, artista, playlista
+          |_____ navegar por genero 
+
+- minha conta ______ configurações
+             |_____ seguidores
+             |_____ seguindo
