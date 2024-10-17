@@ -14,4 +14,11 @@ Aplicativo de música:
 - minha conta ______ configurações
              |_____ seguidores
              |_____ seguindo
-lklklklk bhvhhv jobas
+
+-interface:
+- player ______ métodos()
+             |_____ play
+             |_____ pause
+             |_____ passar para musica adiante
+             |_____ retornar a musica anterior
+             |_____ volume
