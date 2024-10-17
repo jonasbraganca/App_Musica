@@ -1,2 +1,2 @@
 # App_Musica
-Atividade da Disicplina de Programação 2
+Atividade da Disciplina de Programação 2
