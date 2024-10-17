@@ -2,6 +2,7 @@ Aplicativo de música:
 - biblioteca ____ musicas (todas)
             |_____ albuns adicionados 
             |_____ playlists adicionadas e criadas
+            |_____ artistas (em ordem alfabética?)
 
 
 - início _____ playlists publicas do app
